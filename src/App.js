@@ -15,6 +15,7 @@ function App() {
       <Jumbotron />
       <Jumbotron />
       <Jumbotron />
+      <Jumbotron />
       <Layout>
         <Router>
           <Switch>
