@@ -13,6 +13,7 @@ function App() {
     <React.Fragment>
       <NavigationBar />
       <Jumbotron />
+      <Jumbotron />
       <Layout>
         <Router>
           <Switch>
