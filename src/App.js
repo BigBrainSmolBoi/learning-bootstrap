@@ -14,6 +14,7 @@ function App() {
       <NavigationBar />
       <Jumbotron />
       <Jumbotron />
+      <Jumbotron />
       <Layout>
         <Router>
           <Switch>
